@@ -1,0 +1,3 @@
+[submodule "Bottomnavigation"]
+	path = Bottomnavigation
+	url = git@github.com:kiranbollepalli/Bottomnavigation.git
